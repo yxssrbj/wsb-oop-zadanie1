@@ -58,4 +58,4 @@ Each language was developed on its own branch and merged into `main`:
 
 ## Use of AI
 
-AI tool used: Claude (Anthropic), https://claude.ai, 08.11.2026. Purpose: generating the program code and this README. The code was reviewed, run and tested by me with the example inputs from the task.
+AI (Claude, https://claude.ai, 08.11.2026) was used to help write the code and README; I reviewed and tested it.
